@@ -1,0 +1,1 @@
+always use plural in #controllers module and make the models singular
