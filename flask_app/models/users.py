@@ -9,7 +9,7 @@ class User:
         self.last_name = data['last_name']
         self.email = data['email']
         self.created_at = data['created_at']
-        self.updated_at = data['update_at']
+        self.updated_at = data['updated_at']
     
     def fullname(self):
         return f"{self.first_name} {self.last_name}"
